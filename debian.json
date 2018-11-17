@@ -1,0 +1,13 @@
+{
+  "name": "Todoist",
+  "dest": "release-builds/",
+  "description": "a build of Todoist with webview in electron",
+  "icon": "resources/icon.png",
+  "categories": [
+    "Utility"
+  ],
+  "lintianOverrides": [
+    "changelog-file-missing-in-native-package"
+  ],
+    "maintainer": "Reni Alkimim Dantas <renidantas0@gmail.com>"
+}
