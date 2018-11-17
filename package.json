@@ -13,5 +13,7 @@
     "electron": "^3.0.9",
     "electron-reload": "^1.3.0"
   },
-    "author": "Reni Dantas"
+    "author": "Reni Dantas",
+    "repository": "https://github.com/renidantass/todoist_app",
+    "keywords": ["Electron", "Todoist", "client"]
 }
