@@ -6,6 +6,8 @@
 
 This is a client for **Todoist on Linux** environment but works on Windows and Mac too.
 
+![Just a preview](https://i.imgur.com/allCu0P.png)
+
 ## Install
 
 ### _Debian-based distributions_
